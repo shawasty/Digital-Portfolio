@@ -1,0 +1,40 @@
+header{
+	text-align: center;
+	font-style: 
+	
+	}
+	h1{ text-align: left; 
+		color: white;
+		font-weight: lighter; font-family: Courier New;
+		padding: 40px 0px 0px 50px;
+		font-size: 50px;
+		background-image: url(https://www.photohdx.com/images/2014/10/black-clean-leather-texture-background.jpg);
+	}
+
+ul{
+	padding: 8px;
+}
+
+body{
+	background-image: url(https://thumbs.dreamstime.com/z/mechanical-engineering-science-abstract-background-7380875.jpg);
+	background-size: cover;
+	background-position: relative;
+}
+
+img{
+	float: left; border-radius: 250px;
+	padding: 55px; 
+	margin: 70px;
+	position: static;
+}
+
+main{
+	padding: 10px 200px 50px 0px;
+	color: rgb(51, 108, 109); font-size: large;
+	font-weight: lighter; font-family: calibri;
+}
+h2{
+	color: black; font-family: courier;
+
+}
+
